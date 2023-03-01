@@ -41,6 +41,8 @@ For ETL, Glue, Athena (manage data files using SQL), Redshift Spectrum.
 
 # EDA
 
+### Data Cleaning
+
 - **identifying correlation is important**, high correlation between two attributes can sometimes lead to poor model performance. 
 - **Scatter plots visualize relationships between numerical variables** - when you have more than two numerical variables in a feature dataset and you want to understand their relationship, use scatter plot for visualization. 
 - **Correlation matrices help you quantify the linear relationships among variables** - 
@@ -69,5 +71,21 @@ For ETL, Glue, Athena (manage data files using SQL), Redshift Spectrum.
 - For numerical features, squaring, cubing, multiplication of feature as transformation. (multinomial or polynomial)
 - Categorical Data - Ordinal (categories are ordered), Nominal (categories not ordered)
   convert categorical data to numerical data. But not recommended to convert nomial data to numerical, instead encode using one-hot encoding. 
+
+### Data Visualization
+
+-   Scatter plots
+    
+-   Box plots
+    
+-   Histograms
+    
+-   Scatter matrix
+    
+-   Correlation matrix
+    
+-   Heatmaps
+    
+-   Confusion matrix
   
   
