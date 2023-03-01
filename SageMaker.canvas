@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"69101aec5a3e0e84","x":-160,"y":-460,"width":250,"height":60,"type":"text","text":"ML environments"},
-		{"id":"625ecaddc45b1cab","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"SageMaker Studio\n"}
-	],
-	"edges":[]
-}

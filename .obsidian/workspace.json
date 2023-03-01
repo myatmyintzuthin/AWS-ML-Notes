@@ -11,14 +11,11 @@
             "id": "5c29ffbbfa977257",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "SageMaker.canvas",
-                "viewState": {
-                  "x": -34.57489917755127,
-                  "y": -22.864045600891114,
-                  "zoom": 0
-                }
+                "file": "Exam Readiness.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SageMaker.canvas",
+                "file": "Exam Readiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SageMaker.canvas",
+                "file": "Exam Readiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SageMaker.canvas"
+                "file": "Exam Readiness.md"
               }
             }
           }
@@ -152,6 +149,8 @@
   },
   "active": "5c29ffbbfa977257",
   "lastOpenFiles": [
+    "Screenshot from 2023-03-01 09-14-26.png",
+    "Exam Readiness.md",
     "SageMaker.canvas"
   ]
 }
