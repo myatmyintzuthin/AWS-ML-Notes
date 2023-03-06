@@ -8,3 +8,9 @@ When some inference workloads require  an entire GPU or have low latency require
 Allow you to attach low-cost GPU powered acceleration to Amazon EC2 and Amazon SageMaker instances to reduce the cost of running deep learning inference by up to 75 %.
 
 Amazon Elastic Inferece accelerators are network-attached devices that work along with EC2 instances in your endpoint to accelerated your inference calls. 
+
+![[Screenshot from 2023-03-06 13-52-53.png]]
+
+![[Screenshot from 2023-03-06 14-08-26.png]]
+
+![[Screenshot from 2023-03-06 14-13-53.png]]
