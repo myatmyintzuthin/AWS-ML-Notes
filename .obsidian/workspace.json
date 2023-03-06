@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ef73daafaad2f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS DL Building Blocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3d4ad33179eae646",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Readiness.md",
+                "file": "AWS DL Building Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Readiness.md",
+                "file": "AWS DL Building Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Readiness.md"
+                "file": "AWS DL Building Blocks.md"
               }
             }
           }
@@ -146,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b849f452ff5b2c2",
+  "active": "9ef73daafaad2f8d",
   "lastOpenFiles": [
-    "Screenshot from 2023-03-01 09-14-26.png",
     "Exam Readiness.md",
+    "AWS DL Building Blocks.md",
+    "Screenshot from 2023-03-01 09-14-26.png",
     "SageMaker.canvas"
   ]
 }
