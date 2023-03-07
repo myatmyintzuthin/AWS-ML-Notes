@@ -14,3 +14,6 @@ Amazon Elastic Inferece accelerators are network-attached devices that work alon
 ![[Screenshot from 2023-03-06 14-08-26.png]]
 
 ![[Screenshot from 2023-03-06 14-13-53.png]]
+
+
+![[Screenshot from 2023-03-06 18-02-21.png]]
